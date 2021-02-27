@@ -9,7 +9,7 @@
 }
 
 body{
-	padding:50px;
+	padding:30px;
 }
 
 header {
@@ -117,7 +117,10 @@ body {
   -ms-flex: 70%; /* IE10 */
   flex: 70%;
   background-color: white;
-  padding: 20px;
+  padding-top: 20px;
+  padding-bottom: 30px;
+  padding-left: 50px;
+  padding-right: 50px;
   border-left-style: solid;
   border-left-width: thin;
 }
@@ -165,11 +168,11 @@ body {
 
 html, body {
 	background: white;
-    margin: 0;
-    padding: 50;
-    font-family: 'PT Serif', serif;
-    -moz-osx-font-smoothing: grayscale;
-    -webkit-font-smoothing: antialiased;
-    font-smoothing: antialiased;
+  margin: 0;
+  padding: 30px;
+  font-family: 'PT Serif', serif;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
 }
 
