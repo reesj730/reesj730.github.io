@@ -16,6 +16,10 @@ header {
     display: block;
 }
 
+span{
+  font-weight: bolder;
+}
+
 * {
   box-sizing: border-box;
 }
